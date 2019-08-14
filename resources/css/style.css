@@ -1,0 +1,15 @@
+html {
+    text-align: center;
+}
+
+form {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+ul {
+    list-style-type: none;
+
+}
